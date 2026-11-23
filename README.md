@@ -1,2 +1,2 @@
-# Smart-Blind-Stick-Mp
+# Smart-Blind-Stick
 Mini project
